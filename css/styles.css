@@ -1,0 +1,67 @@
+.header img {
+  max-width: 90px;
+}
+.header h1 {
+  font-family: 'satisfy', cursive;
+  color: #F48059;
+}
+
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  min-height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+/*.. means to look out of folder in url*/
+
+.jumbotron h1{
+  font-family: 'open sans',sans-serif;
+  color: #fff;
+  font-weight: 300;
+  font-size: 48px;
+}
+
+.thumbnail{
+  min-height: 400px;
+}
+
+.featured h2{
+  text-transform: uppercase;
+}
+.featured .item {
+  padding: 0 5px;
+}
+.featured .thumbnail{
+  background-color: #EDF1F4;
+}
+
+.services h2{
+  text-transform: uppercase;
+}
+
+.services ul li a {
+  text-transform: uppercase;
+  color: #61AEE6;
+}
+footer{
+  background-color: #231F20;
+  padding: 15px;
+}
+footer .row {
+  margin: 0;
+}
+footer img {
+  max-width: 150px;
+}
+footer a {
+  color: #DDD;
+}
+
+footer .border{
+  border-left: 1px solid #333;
+}
+
+footer .copyright{
+  color: #333;
+  font-size: 18px;
+}
